@@ -3,9 +3,9 @@ entries:
   gearengine-addition:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-12T16:44:30.5514375+05:30
+    created: 2019-04-12T16:54:16.4669123+05:30
     description: Addition service by klingelnberg
-    digest: 46cb82dc3abc24fb2068823face3b1a1bc17596ff105649534f7432883a2256b
+    digest: 8f22732706e25b8d27b1be3d0b2102facf1a3d45bdad2ada1451800a263233b7
     maintainers:
     - email: s93rastogi@gmail.com
       name: shubhanshu Rastogi
@@ -16,7 +16,7 @@ entries:
   gearengine-mongodb:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-12T16:44:30.5524339+05:30
+    created: 2019-04-12T16:54:16.4679067+05:30
     description: GearEngine NoSQL Server on MongoDB by Klingelnberg
     digest: 226453f8e9ed31976ddf0ec34d00faa026913f48925439d64ea6d588f8e807d1
     maintainers:
@@ -29,11 +29,11 @@ entries:
   my-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-12T16:44:30.5544366+05:30
+    created: 2019-04-12T16:54:16.4689109+05:30
     description: A Helm chart for Kubernetes
     digest: f7adf69a7bb3fa9bbd9625ec657e038edb5766873e33c8ba9d5780fd8d426923
     name: my-app
     urls:
     - https://s93rastogi.github.io/helm-example/my-app-0.1.0.tgz
     version: 0.1.0
-generated: 2019-04-12T16:44:30.548435+05:30
+generated: 2019-04-12T16:54:16.4629102+05:30
