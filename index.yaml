@@ -3,7 +3,7 @@ entries:
   gearengine-addition:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-18T10:38:28.2757413+05:30
+    created: 2019-04-19T15:43:25.132963+05:30
     description: Addition service by klingelnberg
     digest: 5a789396292b86752a640fd664972e3b951654b430e92f18777211b851fd198c
     maintainers:
@@ -13,10 +13,23 @@ entries:
     urls:
     - https://s93rastogi.github.io/helm-example/gearengine-addition-0.1.0.tgz
     version: 0.1.0
+  gearengine-cutterheadinspection:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: 2019-04-19T15:43:25.132963+05:30
+    description: GearEngine Cutterheadinspection by Klingelnberg
+    digest: 588360bedbfa8810ea7cc42011f5684ec5ad8d9af774066d36c697f8bad3441c
+    maintainers:
+    - email: gearengine@klingelnberg.com
+      name: Klingelnberg GearEngine
+    name: gearengine-cutterheadinspection
+    urls:
+    - https://s93rastogi.github.io/helm-example/gearengine-cutterheadinspection-0.1.0.tgz
+    version: 0.1.0
   gearengine-mongodb:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-18T10:38:28.276743+05:30
+    created: 2019-04-19T15:43:25.134019+05:30
     description: GearEngine NoSQL Server on MongoDB by Klingelnberg
     digest: 226453f8e9ed31976ddf0ec34d00faa026913f48925439d64ea6d588f8e807d1
     maintainers:
@@ -29,11 +42,11 @@ entries:
   my-app:
   - apiVersion: v1
     appVersion: "1.0"
-    created: 2019-04-18T10:38:28.2777424+05:30
+    created: 2019-04-19T15:43:25.1359595+05:30
     description: A Helm chart for Kubernetes
     digest: f7adf69a7bb3fa9bbd9625ec657e038edb5766873e33c8ba9d5780fd8d426923
     name: my-app
     urls:
     - https://s93rastogi.github.io/helm-example/my-app-0.1.0.tgz
     version: 0.1.0
-generated: 2019-04-18T10:38:28.2747432+05:30
+generated: 2019-04-19T15:43:25.1309544+05:30
